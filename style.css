@@ -1,8 +1,14 @@
+
+body
+{
+background-image: linear-gradient(to right top, #45adfd, #2591d9, #1e74a5, #096191, #014c6e);
+}
+
 #start-btn
 {
     width: 40%;
 } 
-#camera
+#camera , #result
 {
     width:360px;
     height: 250px;
